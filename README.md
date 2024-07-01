@@ -31,7 +31,7 @@ This project compares the historical price performance of Bitcoin and gold to sh
 * A data-driven recommendation was provided for stakeholders showing why Bitcoin is a better growth investment than Gold.
 
 ### [Cyclist Bike-Share Member Conversion Strategies](https://github.com/dwhite256/Cyclist-Bike-Share-Company-Analysis)
-This repository is for a project that analyzes the difference in behavior of bike share riders who are members and those who are not members.
+This project analyzes the differences in behavior of bike-share riders who are members and those who are not members to formulate different strategies that will convert casual riders into members.
 * Data was cleaned to improve its format and get rid of unneccessary information.
 * Multiple graphs were created clearly and easily visualizing the data for stakeholders.
 * A strategy to convert non-members into members for the bike-share company was provided after answering how they use the bike-share differently.
