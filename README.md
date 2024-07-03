@@ -2,9 +2,6 @@
 
 ### Technical Skills: SQL, Python, Excel, Tableau, R, Google Sheets
 
-### Education
-* [Google Data Analytics Professional Certificate](https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69)
-  
 ## Projects
 ### [Mint Classics Car Company Exploratory Analysis](https://github.com/dwhite256/Mint-Classics-Company-Exploratory-Analysis)
 This project uses SQL to analyze the database of a car company in order to recommend whether it is viable for the company to close one of their warehouses.
@@ -34,3 +31,6 @@ This project analyzes the differences in behavior of bike-share riders who are m
 * Data was cleaned to improve its format and get rid of unneccessary information.
 * Multiple graphs were created clearly and easily visualizing the data for stakeholders.
 * A strategy to convert non-members into members for the bike-share company was provided after answering how they use the bike-share differently.
+
+### Education
+* [Google Data Analytics Professional Certificate](https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69)
