@@ -5,7 +5,7 @@
 ### Education
 * [Google Data Analytics Professional Certificate](https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69)
   
-### Projects
+## Projects
 ### [Mint Classics Car Company Exploratory Analysis](https://github.com/dwhite256/Mint-Classics-Company-Exploratory-Analysis)
 This project uses SQL to analyze the database of a car company in order to recommend whether it is viable for the company to close one of their warehouses.
 * The database for the company was successfully loaded into mySQL for analysis.
