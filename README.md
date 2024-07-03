@@ -3,7 +3,9 @@
 #### Technical Skills: SQL, Python, Excel, Tableau, R, Google Sheets
 
 ### Education
-
+* Google Data Analytics Professional Certificate
+  https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69
+  
 ### Work Experience
 
 ## Projects
