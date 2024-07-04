@@ -44,4 +44,3 @@ This project uses **Excel/Google Sheets** to analyze the differences in behavior
 ### Interests
 * Investing
 * Financial Markets (Cryptocurrency/Digital Assets, Stock/Equities)
-* Conveying information through data and how data effects our lives.
