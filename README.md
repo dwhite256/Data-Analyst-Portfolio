@@ -38,9 +38,9 @@ This project uses **Excel/Google Sheets** to analyze the differences in behavior
 * Multiple graphs were created clearly and easily visualizing the data for stakeholders.
 * A presentation providing strategies to convert non-members into members for the bike-share company was provided after answering how they use the bike-share differently.
 
-### Education
+## Education
 * [Google Data Analytics Professional Certificate](https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69)
 
-### Interests
+## Interests
 * Investing
 * Financial Markets (Cryptocurrency/Digital Assets, Stock/Equities)
