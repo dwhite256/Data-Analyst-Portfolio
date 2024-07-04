@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Technical Skills: SQL, Python, Excel, Tableau, R, Google Sheets
+### Technical Skills: SQL, Python(Pandas, NumPy, MatPlotLib), Excel(VLookup, Conditional Formatting, Pivot Tables), Tableau, R, Google Sheets
 
 ## Projects
 ### [Mint Classics Car Company Exploratory Analysis](https://github.com/dwhite256/Mint-Classics-Company-Exploratory-Analysis)
