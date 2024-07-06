@@ -51,7 +51,6 @@ This project uses **Excel/Google Sheets** to analyze the differences in behavior
   + Utilized inventory and financial data management to keep food costs as low as possible.
   + Became proficient with point-of-sale systems and used the sales data to generate reports so the company could make data-driven decisions in the future.
   + Performance metrics like drive-thru times were used to track team performance and actionable feedback was given if this metric was not met.
-  
 
 ## Education
 * [Google Data Analytics Professional Certificate](https://coursera.org/share/738fbdde86e5e44aa5f2dc22a20edb69)
