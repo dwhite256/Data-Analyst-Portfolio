@@ -49,13 +49,13 @@ This project uses **Excel/Google Sheets** to analyze the differences in behavior
 * A presentation providing strategies to convert non-members into members for the bike-share company was provided after answering how they use the bike-share differently.
 
 ## Work Experience
-* The Home Depot - Freight Associate (4 Years)
+* **The Home Depot - Freight Associate (4 Years)**
   + Using data about the amount and types of products coming in on each truck to determine how long the truck would take to complete and which departments would need more attention.
   + Observed and collected data on the freight crew to determine which areas they are the best and which areas need improvement.
   + Analyzed my previous performance and the performance of others to suggest data-driven solutions.
   + Analyzed customers purchases to identify trends and they items different kinds of people tend to buy.
     
-* Bojangles - Manager (3 Years)
+* **Bojangles - Manager (3 Years)**
   + Used data such as hourly sales to forecast the amount of food needed during different times of the day and optimize employee work schedules.
   + Tracked crew performance to identify areas that required more training and measure the effectiveness of previous training.
   + Utilized inventory and financial data management to keep food costs as low as possible.
