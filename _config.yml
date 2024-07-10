@@ -1,6 +1,8 @@
 title: Donald White
 logo: assets/profile.png.png
 description: Aspiring data analyst proficient in SQL, Python, Excel, and Tableau. I use data to produce actionable insights for stakeholders and create visualizations that effectively communicate findings from my analysis. I look forward to making a positive impact within a team of analysts and grow in the field of data analytics.
-email: donald.white1337@gmail.com
+location: "Huntsville, AL"
+email: "donald.white1337@gmail.com"
+github: "dwhite256"
 show_downloads: true
 theme: jekyll-theme-minimal
