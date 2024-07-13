@@ -22,7 +22,7 @@ This project uses **SQL** to analyze the database of a car company in order to r
 
 This project uses **Tableau** to create an interactive dashboard for users that provides information about multiple housing data points.
 * Using features within **Tableau** data was manipulated and formatted to create different graphs, maps, and interactive sliders.
-* Mutiple pages were combined to make a singular interactive dashboard with various data visualizations for users.
+* Multiple pages were combined to make a singular interactive dashboard with various data visualizations for users.
 
 ### [3.) Crime Data Exploratory Analysis w/ Python](https://github.com/dwhite256/Crime-Data-Exploratory-Analysis-w-Python)
 ![images](https://github.com/dwhite256/Data-Analyst-Portfolio/assets/170587320/13ab0823-61ef-4043-a92d-b5996bbc0eda)
