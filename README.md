@@ -29,13 +29,13 @@ This project uses **Tableau** to create an interactive dashboard for users that 
 
 This project uses **Python** on Kaggle notebooks to conduct exploratory analysis on a crime dataset.
 * **Python** code and different libraries **(Pandas, NumPy, MatPlotLib, and Seaborn)** were used to create multiple visualizations about the crime data. 
-* Through analysis using **Python**, multiple questions about the dataset were answered that provided key insights about crime statisitcs.
+* Through analysis using **Python**, multiple questions about the dataset were answered that provided key insights about crime statistics.
 
 ### [4.) Bitcoin vs Gold Case Study](https://github.com/dwhite256/BTC-vs-Gold-Case-Study)
 ![1](https://github.com/dwhite256/Data-Analyst-Portfolio/assets/170587320/9476ee83-c7c7-4484-bfac-d4d9ac697ec4)
 
 This project uses **Excel/Google Sheets** to compare the historical price performance of Bitcoin and gold to show clients why Bitcoin is a better investment for the future.
-* Data was cleaned and **conditional formatting** was used to improve its format and get rid of unneccessary information.
+* Data was cleaned and **conditional formatting** was used to improve its format and get rid of unnecessary information.
 * Multiple graphs were created clearly and easily visualizing the data for stakeholders.
 * A presentation providing data-driven recommendations was provided for stakeholders showing why Bitcoin is a better growth investment than Gold.
 
@@ -43,7 +43,7 @@ This project uses **Excel/Google Sheets** to compare the historical price perfor
 ![main-16-9-data](https://github.com/dwhite256/Data-Analyst-Portfolio/assets/170587320/963e1691-8ec9-4a4a-9c0a-61fc820436e9)
 
 This project uses **Excel/Google Sheets** to analyze the differences in behavior of bike-share riders who are members and those who are not members to formulate different strategies that will convert casual riders into members.
-* Data was cleaned and **conditional formatting** was used to improve its format and get rid of unneccessary information.
+* Data was cleaned and **conditional formatting** was used to improve its format and get rid of unnecessary information.
 * **Pivot Tables** were utilized to aggregate data and make analysis easier.
 * Multiple graphs were created clearly and easily visualizing the data for stakeholders.
 * A presentation providing strategies to convert non-members into members for the bike-share company was provided after answering how they use the bike-share service differently.
