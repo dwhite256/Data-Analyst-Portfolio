@@ -54,8 +54,8 @@ This project uses **Excel/Google Sheets** to analyze the differences in behavior
   + Utilized inventory and financial data management to keep food costs as low as possible.
   + Became proficient with point-of-sale systems and used the sales data to generate reports so the company could make data-driven decisions in the future.
   + Performance metrics like drive-thru times were used to track team performance and actionable feedback was given if this metric was not met.
- 
- * **The Home Depot - Freight Associate (4 Years)**
+
+* **The Home Depot - Freight Associate (4 Years)**
   + Used data about the freight coming in on each truck to determine how long the truck would take to complete and which departments would need more attention.
   + Observed and collected data on the freight crew to determine which areas they are the best and which areas they need improvement.
   + Analyzed data about customer purchases to identify trends and the items different kinds of customers tend to buy.
